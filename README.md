@@ -1,7 +1,0 @@
-
-## Install dependencies
-
-```
-npm install
-```
-
